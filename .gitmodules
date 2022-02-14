@@ -1,0 +1,3 @@
+[submodule "packages/totum"]
+	path = packages/totum
+	url = https://github.com/webaverse/totum
